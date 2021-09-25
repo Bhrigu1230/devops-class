@@ -4,3 +4,7 @@ to eat
 to drink
 to sleep
 to beat
+kalpana
+anitha
+madhavi
+bhargavi
